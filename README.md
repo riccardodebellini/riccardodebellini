@@ -1,3 +1,5 @@
+> [!TIP]
+> Don't understand italian? Read it in [english](/README_EN.md)
 # Ciao, sono Riccardo! 👋
 
 Sono Riccardo, uno sviluppatore di 16 anni e studente del liceo scientifico. Nel tempo libero, mi diverto a trasformare necessità in soluzioni software. La mia passione è creare applicazioni che semplificano la vita, un progetto alla volta.
